@@ -1,0 +1,1 @@
+questa è una lezione introduttiva su git
